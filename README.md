@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Jaewon YUu
+Jaewon YU
